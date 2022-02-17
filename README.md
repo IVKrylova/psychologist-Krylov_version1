@@ -13,7 +13,7 @@
 9. Скрипты masked, Remodal-master, lightbox
 
 ## Авторское право
-Автор иконок: [Freepik](www.freepik.com) from [Flaticon](www.flaticon.com)
+Автор иконок: [Freepik](https://www.freepik.com/) from [Flaticon](https://www.flaticon.com/)
 
 ## Скринкаст
 
