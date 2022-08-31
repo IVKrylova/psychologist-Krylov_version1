@@ -19,7 +19,7 @@
 7. Библиотеки Owl-carousel, Animate, Masked, Remodal-master, Lightbox
 
 ## Инструменты
-1. Photoshop
+1. Adobe Photoshop
 2. XMind
 3. Денвер
 4. Яндекс.Метрика
